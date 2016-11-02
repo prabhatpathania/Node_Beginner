@@ -1,0 +1,1 @@
+exports.exportParam = "Value from library";
